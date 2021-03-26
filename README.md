@@ -2,7 +2,7 @@
 
 
 ## Exercise 1
-  1) Lav en restfull webservice med FLASK som har et GET og POST endpoint.
+  1) Lav en RESTful  webservice med FLASK som har et GET og POST endpoint.
 
 ## Exercise 2
 1) Få fat i data fra "URL" med request.get()  
