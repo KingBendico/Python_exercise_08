@@ -2,15 +2,15 @@
 
 
 ## Exercise 1
-  1) Lav en metode der fetcher data
-  2) gem data i database ved hjælp af en flask rest server
-  3) Hent data ned igen og hvis det i et plot
+  1) Lav en restfull webservice med FLASK som har et GET og POST endpoint.
 
 ## Exercise 2
-1) gem data i database ved hjælp af en flask rest server
+1) Få fat i data fra "URL" med request.get()  
+2) Filtrer dataen til kun at tage "det" og "det"
+3) Brug POST endpointet til at persistere til DB.
 
 ## Exercise 3
-
+1) Brug GET endpoint til at hente data op fra DB og send et response med objektet som JSON. 
 
 
 #### By Group 1, E:
