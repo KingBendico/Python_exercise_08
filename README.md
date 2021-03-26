@@ -5,12 +5,13 @@
   1) Lav en RESTful  webservice med FLASK som har et GET og POST endpoint.
 
 ## Exercise 2
-1) Få fat i data fra "URL" med request.get()  
-2) Filtrer dataen til kun at tage "det" og "det"
-3) Brug POST endpointet til at persistere til DB.
+1) Få fat i data fra "https://api.chucknorris.io/jokes/random" med request.get()  
+2) Filtrer dataen så resultatet er en string med "value" og brug POST endpointet til at persistere til DB.
 
 ## Exercise 3
-1) Brug GET endpoint til at hente data op fra DB og send et response med objektet som JSON. 
+1) Brug GET endpoint til at hente data op fra DB. 
+2) Send et response med et JSON objekt med {text: "Random Joke", value: "resultat fra punkt 1."}. 
+
 
 
 #### By Group 1, E:
